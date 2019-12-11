@@ -1,6 +1,11 @@
-Instructions on Module 5 Checkpoint/3 Introducing Pandas/JSON gives error. 
-Circulum for JSON to get df.info receives error
-Revisied snippet from JSON ciriculum for assignment also receives error
+• What’s got you stuck? Be as specific as you can!
+      Instructions on Module 5 Checkpoint/3 Introducing Pandas/JSON gives error. 
+      Circulum for JSON to get df.info receives error
+      Revisied snippet from JSON ciriculum for assignment also receives error
+
+• What have you tried so far?
+      Tried pd.Dataframe
+      Tried pandas.Dataframe
 
 
 import pandas as pd
