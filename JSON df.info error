@@ -1,6 +1,6 @@
 Instructions on Module 5 Checkpoint/3 Introducing Pandas/JSON gives error. 
 Circulum for JSON to get df.info receives error
-Revisied snippet from JSON ciriculum for assignment also receives erro
+Revisied snippet from JSON ciriculum for assignment also receives error
 
 
 import pandas as pd
